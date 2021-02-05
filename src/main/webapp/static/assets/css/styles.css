@@ -1,0 +1,299 @@
+body {
+ /*background-image: url("../img/ws_World_Map_1920x1080.jpg");*/
+ background-color: #121212;
+ color: #ffffff;
+
+}
+.fab{
+	background-color: #121212;
+	color: #c90d00;
+}
+.navbar{
+ background-color:  #121212;
+ color: #ffffff;
+ height: 75px;
+ border-bottom: 1px solid #ffffff;
+}
+
+.nav-link{
+	font-family: Mongolian Baiti;
+	font-weight: 500;
+	color: #ffffff;
+}
+
+.nav-link:hover{
+	color: #ffffff;
+	border-bottom: 1px solid #c90d00;
+}
+
+
+.fab:hover {
+  transform: rotate(360deg);
+  transition: 1s all;
+}
+
+.dropdown-menu{
+	background-color: #121212;
+	
+}
+
+.dropdown-item:hover{
+	background-color: #121212;
+	color: #c90d00;
+	
+	
+}
+
+.dropdown-item{
+	color: #ffffff;
+}
+
+.modal-header{
+	background-color: #121212;
+}
+
+.modal-footer{
+	background-color: #121212;
+}
+
+.myClickState {
+	border-color: #121212;
+}
+
+.btn-1{
+	background-color: #121212;
+	color: #ffffff;
+	
+}
+
+.btn-1:hover{
+	color: #ffffff;
+	border-bottom: 1px solid #c90d00;
+}
+
+.btn-2{
+  background-color: #121212;
+	color: #ffffff;
+	
+}
+
+.btn-2:hover{
+	color: #c90d00;
+  transform: rotate(360deg);
+  transition: 1s all;
+	
+}
+
+.btn-3{
+	background-color: #121212;
+	color: #c90d00;
+	border-color:#121212;
+
+}
+
+.btn-3:hover{
+	color: #ffffff;
+	
+}
+
+.btn-close{
+	color: #ffffff;
+	background-color: #ffffff;
+}
+
+.about-body{
+	background-color: #dbdbd7;
+	text-align: center;
+	color: #000000;
+}
+
+.about-title{
+	color: #ffffff;
+	
+	
+}
+
+.about-text{
+	font-family: Mongolian Baiti;
+	font-weight: 700; 
+}
+.team-header{
+	background-color:  #121212;
+ color: #ffffff;
+ height: 75px;
+ border-bottom: 1px solid #ffffff;
+}
+
+.team-body{
+	background-color: #121212;
+	
+}
+
+.modal-body{
+	color: #000000;
+	
+}
+
+.bio-body{
+	background-color: #dbdbd7;
+}
+
+.team-title{
+	color: #ffffff;
+	
+	
+}
+
+.team-text{
+	font-family: Mongolian Baiti;
+	
+	
+}
+
+.card{
+	background-color: #121212;
+	border: 1px solid #ffffff;
+	color:#ffffff;
+}
+
+.card:hover{
+	background-color: #121212;
+	border: 1px solid #c90d00;
+	color:#ffffff;
+}
+
+.card-title{
+	color: #ffffff;
+}
+
+.card-social{
+	margin-left: 5px;
+	margin-right: 10px;
+}
+
+.list-group-item{
+	background-color: #121212;
+	color: #ffffff;
+}
+
+.modal-header{
+	background-color: #121212;
+	border-bottom: 1px solid #ffffff;
+
+	
+}
+
+.team-text{
+	color:#000000;
+}
+
+
+.contact-body-text{
+	color: #000000;
+}
+
+.contact-popover-text{
+	color:#000000;
+}
+
+.input-group-text{
+	background-color: #a3a7a8;
+	color: #000000;
+	font-family: Mongolian Baiti;
+	font-weight: 500;
+}
+
+.btn-contact{
+	background-color:#c90d00;
+}
+
+.header-text-1{
+	margin-top: 25px;
+	margin-bottom:px;
+	margin-left: 25px;
+	margin-right: 25px;
+	text-align: center;
+}
+
+
+.footer-email-text{
+	margin-left: 1px;
+	margin-right: 175px;
+	text-align:left;
+}
+
+.footer-text{
+	margin-left:0px;
+	margin-right: 110px;
+	margin-bottom: -20px;
+	margin-top: -5px;
+}
+
+
+.form-btn{
+	margin-left: 405px;
+	margin-bottom: -70px;
+	margin-top: 20px;
+
+}
+
+.bio-btn{
+	background-color: #121212;
+	color: #ffffff;
+	margin-left: 200px;
+	margin-top: -55px;
+	margin-bottom: 0px;
+	border-color: #121212;
+}
+
+.bio-btn:hover{
+	background-color: #121212;
+	color: #c90d00;
+    border-color: #121212;
+}
+
+
+.header-about-text-1{
+	margin-left: 505px;
+	margin-right: -100px;
+}
+
+.header-team-text-1{
+	margin-left: 590px;
+	margin-right: -100px;
+}
+
+.header-services-text-1{
+	margin-left: 470px;
+	margin-right: -100px;
+}
+
+.modal-header{
+	text-align: center;
+}
+
+.back-link{
+	margin-left: 10px;
+	color: #ffffff;
+	
+}
+
+.back-link:hover{
+	color: #c90d00;
+}
+
+.navbar-toggler-button{
+	color: pink;
+	background-color: pink;
+}
+
+.toggler-link{
+	color: #ffffff;
+	margin-right: 75px;
+}
+
+
+.toggler-link:hover{
+	color: #c90d00;
+	border-color: #ffffff;
+}
